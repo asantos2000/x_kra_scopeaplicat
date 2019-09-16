@@ -24,14 +24,14 @@
         <sys_created_by>alex.assuncao</sys_created_by>
         <sys_created_on>2019-09-16 19:29:28</sys_created_on>
         <sys_id>a75b6cb7db3bfb40973f87b3049619e0</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>alex.assuncao</sys_updated_by>
-        <sys_updated_on>2019-09-16 19:33:17</sys_updated_on>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>anderson.santos-smp</sys_updated_by>
+        <sys_updated_on>2019-09-16 19:57:18</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_kra_scopeaplicat.user" name="x_kra_scopeaplicat.user">fb5ba0f7db3bfb40973f87b3049619db</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.5</version>
+        <version>1.0.6</version>
     </sys_app>
 </record_update>
