@@ -12,7 +12,6 @@ ScopeTeste.prototype = {
     },
     type: 'ScopeTeste'
 	// Test
-	// Test2
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>alex.assuncao</sys_created_by>
