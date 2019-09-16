@@ -10,6 +10,7 @@
 ScopeTeste.prototype = {
     initialize: function() {
     },
+// aqui era o problema
     type: 'ScopeTeste'
 	// Test
 	// test2
